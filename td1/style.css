@@ -4,15 +4,24 @@ body #button {
 	 margin-right: 40%;
 	}
 	
-	h1{
-		color: red; 
+	#script1{
+		color: white; 
 	}
 	
-	#t1{ 
-	text-decoration: underline; 
+	{ 
+	
 	}
 	
-	.rose{
-			color: magenta;
+	#liste{
+			list-style: none;
 	}
-	
+	#gras {
+		font-weight: bold;
+	}
+	#cyan {
+		text-decoration: underline;
+		color:skyblue	
+	}
+	span{
+		color: rosybrown;
+	}
